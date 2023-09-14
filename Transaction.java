@@ -30,7 +30,7 @@ public class Transaction {
         }
         done = true;
 
-    }
+    };
 
     public void checkOut() {
         System.out.println("Pay me");
